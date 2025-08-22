@@ -1,0 +1,13 @@
+{
+  "fecha_reporte": "25 - 08 - 20 13: 35: 20",
+  "total_ingresos": 9315000.0,
+  "top_producto_ingresos": "laptop",
+  "compras_cliente": {
+    "A": 3,
+    "B": 4,
+    "C": 1,
+    "D": 1
+  },
+  "si_aplica_bono": true,
+  "mensaje_bono": "Umbral superado, aplicar descuento corporativo 5% en próxima compra"
+}
